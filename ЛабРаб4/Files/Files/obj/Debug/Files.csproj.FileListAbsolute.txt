@@ -1,0 +1,40 @@
+D:\Google Drive\Шарп\Files\Files\bin\Debug\Files.exe.config
+D:\Google Drive\Шарп\Files\Files\bin\Debug\Files.exe
+D:\Google Drive\Шарп\Files\Files\bin\Debug\Files.pdb
+D:\Google Drive\Шарп\Files\Files\obj\Debug\Files.Form1.resources
+D:\Google Drive\Шарп\Files\Files\obj\Debug\Files.Properties.Resources.resources
+D:\Google Drive\Шарп\Files\Files\obj\Debug\Files.csproj.GenerateResource.cache
+D:\Google Drive\Шарп\Files\Files\obj\Debug\Files.csproj.CoreCompileInputs.cache
+D:\Google Drive\Шарп\Files\Files\obj\Debug\Files.exe
+D:\Google Drive\Шарп\Files\Files\obj\Debug\Files.pdb
+D:\Google Drive\Шарп\Files\Files\obj\Debug\Files.csprojAssemblyReference.cache
+D:\Google Drive\Шарп\NikiKRCSharp2018\Files\Files\bin\Debug\Files.exe.config
+D:\Google Drive\Шарп\NikiKRCSharp2018\Files\Files\bin\Debug\Files.exe
+D:\Google Drive\Шарп\NikiKRCSharp2018\Files\Files\bin\Debug\Files.pdb
+D:\Google Drive\Шарп\NikiKRCSharp2018\Files\Files\obj\Debug\Files.csprojAssemblyReference.cache
+D:\Google Drive\Шарп\NikiKRCSharp2018\Files\Files\obj\Debug\Files.Form1.resources
+D:\Google Drive\Шарп\NikiKRCSharp2018\Files\Files\obj\Debug\Files.Properties.Resources.resources
+D:\Google Drive\Шарп\NikiKRCSharp2018\Files\Files\obj\Debug\Files.csproj.GenerateResource.cache
+D:\Google Drive\Шарп\NikiKRCSharp2018\Files\Files\obj\Debug\Files.csproj.CoreCompileInputs.cache
+D:\Google Drive\Шарп\NikiKRCSharp2018\Files\Files\obj\Debug\Files.exe
+D:\Google Drive\Шарп\NikiKRCSharp2018\Files\Files\obj\Debug\Files.pdb
+E:\C#\ЛабРаб4\Files\Files\bin\Debug\Files.exe.config
+E:\C#\ЛабРаб4\Files\Files\bin\Debug\Files.exe
+E:\C#\ЛабРаб4\Files\Files\bin\Debug\Files.pdb
+E:\C#\ЛабРаб4\Files\Files\obj\Debug\Files.csprojAssemblyReference.cache
+E:\C#\ЛабРаб4\Files\Files\obj\Debug\Files.Form1.resources
+E:\C#\ЛабРаб4\Files\Files\obj\Debug\Files.Properties.Resources.resources
+E:\C#\ЛабРаб4\Files\Files\obj\Debug\Files.csproj.GenerateResource.cache
+E:\C#\ЛабРаб4\Files\Files\obj\Debug\Files.csproj.CoreCompileInputs.cache
+E:\C#\ЛабРаб4\Files\Files\obj\Debug\Files.exe
+E:\C#\ЛабРаб4\Files\Files\obj\Debug\Files.pdb
+G:\C#\ЛабРаб4\Files\Files\bin\Debug\Files.exe.config
+G:\C#\ЛабРаб4\Files\Files\bin\Debug\Files.exe
+G:\C#\ЛабРаб4\Files\Files\bin\Debug\Files.pdb
+G:\C#\ЛабРаб4\Files\Files\obj\Debug\Files.csprojAssemblyReference.cache
+G:\C#\ЛабРаб4\Files\Files\obj\Debug\Files.Form1.resources
+G:\C#\ЛабРаб4\Files\Files\obj\Debug\Files.Properties.Resources.resources
+G:\C#\ЛабРаб4\Files\Files\obj\Debug\Files.csproj.GenerateResource.cache
+G:\C#\ЛабРаб4\Files\Files\obj\Debug\Files.csproj.CoreCompileInputs.cache
+G:\C#\ЛабРаб4\Files\Files\obj\Debug\Files.exe
+G:\C#\ЛабРаб4\Files\Files\obj\Debug\Files.pdb
